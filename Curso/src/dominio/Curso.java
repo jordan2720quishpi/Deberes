@@ -32,6 +32,7 @@ public class Curso {
         for(int i=0;i<12;i++){
             if(notas[i]>promedio){
                 c++;
+                //proceso innecesario
                 estudianes=c;
             }
         }
